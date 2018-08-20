@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
-public class Main {
+public class HotColdGame {
 
     public static void main(String[] args) {
         int a = 1 + (int) (Math.random()*(100));//Рандомное число от 1 до 100 включительно
